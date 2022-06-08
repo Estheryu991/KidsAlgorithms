@@ -1,5 +1,9 @@
 # [ABZ_Algorithms](https://www.abz.inf.ethz.ch/schweizer-tag-fur-den-informatikunterricht/stiu-2022/)
 
+Mit dem Schweizer Tag für den Informatikunterricht bieten wir Informatik-, Mathematik- und Physiklehrpersonen sowie Lehrpersonen der Volksschule eine Möglichkeit, in direktem Austausch mit Forschenden und Didaktikerinnen und Didaktikern neue Impulse und spannende Konzepte für ihren Informatikunterricht zu erhalten. Dabei können Sie sich direkt und unkompliziert über neue Inhalte im Fach Informatik informieren – und diese selbst ganz praktisch in Workshops ausprobieren.
+
+Mit jeweils rund 130 Teilnehmenden von Schulen aus der Deutschschweiz und dem Tessin waren die neun bisher durchgeführten Schweizer Tage für den Informatikunterricht (STIU) ein voller Erfolg. In diversen Workshops konnten sich Informatiklehrpersonen Inspirationen und praktische Tipps für ihren Informatikunterricht holen.
+
 
 STIU-1  Unplugged Gruppenaktivitäten zum Algorithmischen Denken
 
